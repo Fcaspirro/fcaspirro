@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Olá sou o @Fcaspirro, tenho 23 anos, sou formado em Engenharia Mecânica, e estou em transição de carreira para área de tecnologia, em busca do meu primeiro emprego como desenvolvedor.
-- 🌱 Estou em constante evolução e aprendizado, realizando alguns cursos e bootcamps para desenvolvimento e aprimoramento dos meus conhecimentos teóricos e práticos, onde pode encontrar aqui nos meus diretórios do Github quanto no meu portfólio disponível no Github Pages.
+- 🌱 Estou em constante evolução e aprendizado, realizando alguns cursos e bootcamps para desenvolvimento e aprimoramento dos meus conhecimentos teóricos e práticos, onde pode encontrar aqui nos meus diretórios do Github e também no meu portfólio disponível no Github Pages.
 - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas - 3º Semestre.
 
 
