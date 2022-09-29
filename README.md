@@ -37,18 +37,22 @@
 <!--- Ícones Tecnologia --->
 
 <h2 align="left">💻 Tecnologias</h2> 
-<p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-</p>
+<div align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="55px">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="55px">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="55px">
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="64px">
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="90px">
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="64px">
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="100px">
+</div>
 
 <!--- Ícones Contato --->
 
 <h2 align="left">📞 Conecte comigo</h2>
 <div class="connect" align="center">
-<a href="https://linkedin.com/in/fabio-caspirro" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" Linkedin Fabio Caspirro" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/fabio-caspirro" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" Linkedin Fabio Caspirro" width="48px" style="max-width: 100%;"></a>
 <a href="https://fcaspirro.github.io/portfolio/" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" 
-alt="" height="30" width="40" /></a>
+alt="" width="48px" /></a>
 </div>
