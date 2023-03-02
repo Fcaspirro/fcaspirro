@@ -53,6 +53,6 @@
 <h2>
 <div class="connect" align="center">
 <a href="https://linkedin.com/in/fabio-caspirro" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" Linkedin Fabio Caspirro" width="48px" style="max-width: 100%;"></a>
-<a href="https://fcaspirro.github.io/portfolio/" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" 
+<a href="https://fcaspirro.github.io/portfolio-2.0/" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" 
 alt="" width="48px" /></a>
 </div>
