@@ -1,9 +1,3 @@
-<!--- Banner --->
-
-<p align="center"> 
-<img src="https://puu.sh/Jhmxm/f14754425a.png" width="100%" 
-</p>
-
 <!--- Texto Inicial --->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=663ab8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fabio+Caspirro;Seja+muito+bem+vindo+ao+meu+perfil!!+😄;)](https://git.io/typing-svg)
@@ -18,7 +12,7 @@
 <!--- Apresentação --->
 
 <h2 align="left">Sobre mim 
-<img src="https://media2.giphy.com/media/c1CLe6VoaMviQz0s6z/giphy.gif?cid=ecf05e47hmj8hp1hva4fh8xfdry42pqbc18az8tyzol4rs14&rid=giphy.gif&ct=g" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35" width="50"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzOGQxNDQ2ZTdlNDJhMDQ2MmEwNjFjMmNmM2UyMmZkZTg0N2Q3MSZjdD1z/A577OrcJkEPGQin71s/giphy.gif" align="center"   width="70"/>
 </h2>
 
 <p align="justify"> - (@Fcaspirro) 👋 - Olá, tenho 23 anos, sou formado em Engenharia Mecânica, e estou em transição de carreira para área de tecnologia, em busca do meu primeiro emprego como desenvolvedor.</p>
@@ -27,7 +21,9 @@
 
 <!--- Linguagens mais usadas --->
 
-<h2 align="left">👨🏻‍💻 Linguagens mais usadas</h2> 
+<h2 align="left">Linguagens mais usadas
+  <img src="https://media3.giphy.com/media/tFLdJDEYCAFdjA8RXy/giphy.gif?cid=ecf05e47ie3xbzjzw7emgmbdgqdwdxy82hk6yum6cbwuo56u&rid=giphy.gif&ct=s" align="center"           width="30" />
+</h2> 
 
 <div align="center">
 
@@ -36,7 +32,9 @@
 
 <!--- Ícones Tecnologia --->
 
-<h2 align="left">💻 Tecnologias</h2> 
+<h2 align="left">Tecnologias
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlkMGJjOWQyZWIxZDExOTFiYWIwNzE3OWU3MmM3YzNkOWNiYzg5MyZjdD1z/NGPqgHIkmYqKHjStUb/giphy.gif" align="center"   width="40" />
+<h2>
 <div align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="55px">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="55px">
@@ -50,7 +48,9 @@
 
 <!--- Ícones Contato --->
 
-<h2 align="left">📞 Conecte comigo</h2>
+<h2 align="left">Conecte comigo
+  <img src="https://media4.giphy.com/media/Rqxo1G6Hr4Ws89R3GH/200w.webp?cid=ecf05e47f0toy1m871d07snubnwpwcqrv3a2h9kdfbwljo5n&rid=200w.webp&ct=s" align="center"   width="30" />
+<h2>
 <div class="connect" align="center">
 <a href="https://linkedin.com/in/fabio-caspirro" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" Linkedin Fabio Caspirro" width="48px" style="max-width: 100%;"></a>
 <a href="https://fcaspirro.github.io/portfolio/" target="blank"><img align="center" src="https://camo.githubusercontent.com/9b13cf00d4d07dcfee53663f62019ef576b7224822fe81dd4be7f94885db5496/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" 
