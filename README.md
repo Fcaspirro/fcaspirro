@@ -15,9 +15,9 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzOGQxNDQ2ZTdlNDJhMDQ2MmEwNjFjMmNmM2UyMmZkZTg0N2Q3MSZjdD1z/A577OrcJkEPGQin71s/giphy.gif" align="center"   width="70"/>
 </h2>
 
-<p align="justify"> - (@Fcaspirro) 👋 - Olá, tenho 23 anos, sou formado em Engenharia Mecânica, e estou em transição de carreira para área de tecnologia, em busca do meu primeiro emprego como desenvolvedor.</p>
-<p align="justify"> - 🌱 Estou em constante evolução e aprendizado, venho realizando alguns cursos para aprendizado teórico e codificando diariamente para uma evolução prática, onde é possível encontrar aqui nos meus diretórios do Github e também no meu portfólio disponível também aqui no Github!</p>
-<p align="justify"> - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas - 3º Semestre.</p>
+<p align="justify"> - (@Fcaspirro) 👋 - Olá, tenho 25 anos, sou formado em Engenharia Mecânica, recentemente transiocionei para carreira de tecnologia, alcançando meu primeiro emprego como desenvolvedor web.</p>
+<p align="justify"> - 🌱 Estou em constante evolução e aprendizado, codificando diariamente para uma evolução prática, mas consumo teoria constatemente, por aqui é possível encontrar meus diretórios do Github e também no meu portfólio disponível também aqui no Github!</p>
+<p align="justify"> - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas - 5º Semestre.</p>
 
 <!--- Linguagens mais usadas --->
 
