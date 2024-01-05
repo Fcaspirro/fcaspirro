@@ -15,9 +15,9 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzOGQxNDQ2ZTdlNDJhMDQ2MmEwNjFjMmNmM2UyMmZkZTg0N2Q3MSZjdD1z/A577OrcJkEPGQin71s/giphy.gif" align="center"   width="70"/>
 </h2>
 
-<p align="justify"> - (@Fcaspirro) 👋 - Olá, tenho 25 anos, sou formado em Engenharia Mecânica, recentemente transiocionei para carreira de tecnologia, alcançando meu primeiro emprego como desenvolvedor web.</p>
-<p align="justify"> - 🌱 Estou em constante evolução e aprendizado, codificando diariamente para uma evolução prática, mas consumo teoria constatemente, por aqui é possível encontrar meus diretórios do Github e também no meu portfólio disponível também aqui no Github!</p>
-<p align="justify"> - 👨‍🎓 Aluno de Análise e Desenvolvimento de Sistemas - 5º Semestre.</p>
+<p align="justify"> - (@Fcaspirro) 👋 - Olá, tenho 25 anos, sou formado em Engenharia Mecânica e recém formado em Análise e Desenvolvimento de Sistemas, recentemente transiocionei para carreira de tecnologia, e estou em busca de uma oportunidade como desenvolvedor júnior.</p>
+<p align="justify"> - 🌱 Estou em constante evolução e aprendizado, e por aqui é possível encontrar meus diretórios e também meu portfólio!</p>
+<p align="justify"> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas.</p>
 
 <!--- Linguagens mais usadas --->
 
@@ -38,12 +38,15 @@
 <div align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="55px">
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="55px">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="80px">
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="55px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="64px">
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="90px">
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="64px">
 <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="120px">
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" width="60px">
 </div>
 
 <!--- Ícones Contato --->
